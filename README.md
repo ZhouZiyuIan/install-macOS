@@ -5,7 +5,7 @@ Some sources to install macOS in VMware
 
    unlocker2xx.zip for Old VMware
    
-   unlocker3xx.zip for VMware Player 7~15 and VMware Workstation 11~15
+   unlocker3xx.zip for VMware Player 7\~15 and VMware Workstation 11\~15
 
    unlocker4xx.zip have test on VMware 16~17
 

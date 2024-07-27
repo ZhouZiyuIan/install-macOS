@@ -3,6 +3,12 @@ Some sources to install macOS in VMware
 
 1. unlocker(Avalible in Files)
 
+   unlocker2xx.zip for Old VMware
+   
+   unlocker3xx.zip for VMware Player 7~15 and VMware Workstation 11~15
+
+   unlocker4xx.zip have test on VMware 16~17
+
 2. macOS 10.13 ISO   Link：https://pan.baidu.com/s/1i5Thr2P PWD：1t3e
 
 3. darwin VMware tool  Link：https://pan.baidu.com/s/1oAfyBdo PWD：la1e

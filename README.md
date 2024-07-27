@@ -1,20 +1,20 @@
 # install-macOS
-VMware安装macOS所需资源
+Some sources to install macOS in VMware
 
-1. unlocker    链接：https://pan.baidu.com/s/1gfRj47T 密码：w0t0         也可以直接访问 https://github.com/ElonBrown/unlocker
+1. unlocker(Avalible in Files)
 
-2. macOS 10.13镜像   链接：https://pan.baidu.com/s/1i5Thr2P 密码：1t3e
+2. macOS 10.13 ISO   Link：https://pan.baidu.com/s/1i5Thr2P PWD：1t3e
 
-3. darwin     链接：https://pan.baidu.com/s/1oAfyBdo 密码：la1e          其他个版本 http://softwareupdate.vmware.com/cds/vmw-desktop/fusion/
-
-
-欢迎相互follow
+3. darwin vmware tool     Link：https://pan.baidu.com/s/1oAfyBdo PWD：la1e          Other Versions: http://softwareupdate.vmware.com/cds/vmw-desktop/fusion/
 
 
-其他：
+Welcome to Fork this project
 
-OS X 10.11 链接：https://pan.baidu.com/s/1bopQ5Z5 密码：o75t
 
-OS X 10.10 链接：https://pan.baidu.com/s/1pMRPyfL 密码：mul9
+Others:
 
-unlocker206链接：https://pan.baidu.com/s/1eSPPCqQ 密码：urwt
+OS X 10.11 Link：https://pan.baidu.com/s/1bopQ5Z5 Password：o75t
+
+OS X 10.10 Link：https://pan.baidu.com/s/1pMRPyfL Password：mul9
+
+unlocker206 Link：https://pan.baidu.com/s/1eSPPCqQ Password：urwt
